@@ -1,4 +1,15 @@
----
+{
+  "repo_name": "Prochan My Repo",
+  "extension_name": "Prochan Arabic",
+  "base_url": "https://prochan.com",
+  "api_version": "1.4",
+  "source": {
+    "id": "prochan_ar",
+    "lang": "ar",
+    "class": "Madara",
+    "is_prochan": true
+  }
+}---
 title: Extensions
 titleTemplate: Browse - Frequently Asked Questions
 description: Frequently Asked Questions about Extensions.
